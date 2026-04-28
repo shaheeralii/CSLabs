@@ -5,20 +5,6 @@ It serves as a structured collection of programming exercises, demonstrating my 
 
 ---
 
-## 📂 Repository Structure
-
-CSLabs/
-│
-├── Sem-01/
-├── Sem-02/
-├── Sem-03/
-├── ...
-└── Sem-08/
-
-Each semester folder contains lab sessions, and each lab includes multiple task-based implementations.
-
----
-
 ## 🎯 Objectives
 
 - Build a strong foundation in **computer programming**
