@@ -21,7 +21,8 @@ This lab focuses on decision-making structures, logical branching, and input val
 * **Switch-Case:** Efficiently handling multi-way branching for menu-driven tasks.
 * **Input Validation:** Ensuring data falls within logical ranges (e.g., marks between 0-100).
 
-## 🚀 How to Run
-1. Open your terminal.
-2. Compile: `g++ task_name.cpp -o out`
-3. Execute: `./out`
+## 🚀 Compilation & Execution
+To run any task, use the following commands in your terminal:
+```bash
+g++ <filename>.cpp -o output
+./output
