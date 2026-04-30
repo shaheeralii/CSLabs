@@ -20,7 +20,8 @@ This folder contains C++ programs focused on basic arithmetic, constant handling
 * **Financial Logic:** Managing balances and calculating totals (Billing/Banking).
 * **Math Operators:** Extensive use of division `/` and modulus `%` (Time Converter).
 
-## 🚀 How to Run
-1. Open your terminal.
-2. Compile: `g++ <filename>.cpp -o out`
-3. Execute: `./out`
+## 🚀 Compilation & Execution
+To run any task, use the following commands in your terminal:
+```bash
+g++ <filename>.cpp -o output
+./output
