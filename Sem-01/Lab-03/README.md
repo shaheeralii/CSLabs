@@ -1,3 +1,4 @@
+![Status: Completed](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
 # Lab 03: Iterative Logic & Loops
 
 This repository contains C++ solutions for Lab 03, focusing on advanced loop structures, nested iterations, and string accumulation techniques.
