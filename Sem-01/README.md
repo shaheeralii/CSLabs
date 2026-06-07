@@ -1,9 +1,8 @@
 # 🧪 Lab 12 — Pointers in C++
 
-**Course:** Introduction to Information & Communication Technology (CSL 114)
+**Course:** Computer Programming Lab (CSL 113)
 **Lab:** 12 | **Topic:** Pointers
 **Author:** Syed Shaheer Ali
-**Institution:** Bahria University, Karachi Campus
 
 ---
 
