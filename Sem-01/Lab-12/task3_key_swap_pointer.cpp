@@ -30,4 +30,6 @@ int main () {
     cout << "\nAfter Key Exchange: \n";
     cout << "Container 1 Key: " << key1;
     cout << "\nContainer 2 Key: " << key2;
+
+    return 0;
 }
