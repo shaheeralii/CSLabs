@@ -98,9 +98,3 @@ g++ task3_key_swap_pointer.cpp -o task3 && ./task3
 g++ task4_organize_books.cpp -o task4 && ./task4
 g++ task5_find_tallest.cpp -o task5 && ./task5
 ```
-
-> **Compiler:** g++ (GCC) | **Standard:** C++11 or later recommended (`-std=c++11`)
-
----
-
-*Bahria University Karachi Campus — BS Computer Science, Spring 2026*
