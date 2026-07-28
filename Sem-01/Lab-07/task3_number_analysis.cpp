@@ -30,7 +30,7 @@ void sum(int num) {
 
 void checkPalindrome(int num){
     string s = to_string(num);
-    if (s[0] == s[1]) {
+    if (s[0] == s[2]) {
         cout << num << " is a palidrome.";
     }
     else {
